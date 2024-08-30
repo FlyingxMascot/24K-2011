@@ -1,0 +1,133 @@
+# Home Task
+## Objective 1
+
+- Task 02 : Take three variables as input and add them without using the + operator (Use your head for this).
+
+- Solution :
+
+       START
+
+// Declaration
+
+Define var1
+Define var2
+Define var3
+
+// Here’s the Input given by the user
+
+INPUT var1
+INPUT var2
+INPUT var3
+
+// Initilization
+Set SUM to 0    	// Process Steps
+
+sum = var1 - ( - var2) – ( - var3)
+
+// Output
+
+Print “The addition of the given 3 numbers is as follows :” sum;
+
+
+    END
+
+## Objective 2
+
+• Task 03 : Create a small calculator which only does ‘+’ or ‘-‘ Operations. (Hint: Take three variable inputs with one being used for the operator)
+
+• Solution :
+
+       START
+
+// Declaration
+
+Define operator
+Define num1
+Define num2
+
+
+
+//Input - Here’s the Input given by the user
+
+
+INPUT number1
+INPUT number2
+INPUT operator
+
+
+// Initilization
+Set SUM to 0
+Set DEDUCT to 0    	// Process Steps
+
+IF operator = “+” 
+   THEN
+sum = (num1 + num2)
+   ENDIF
+ 
+IF operator = “-“
+  THEN
+deduction =  (num1 – num2)
+
+
+// Output
+
+Print “The addition of the given 2 numbers is as follows :” sum;
+
+Print “The deduction of the given 2 numbers is as follows :” deduction;
+
+    END
+
+## OBJECTIVE 3
+
++ Task 01 : Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
+- Solution: 
+1.	In order to check if n can be divided by N and give zero remainder,we will proceed with an IF statement as following:
+
+IF n % N == 0:
+  THEN
+  N is a divisor of n
+
+2.	We will again employ if and else case statements to check 
+
+// This means that remainder is zero on division
+
+IF N % 2 == 0: 
+  THEN
+  N is an even number
+
+ELSE:
+  N is an odd number
+
+3.	// Output – Possible Outcomes
+EITHER print(“N is a divisor of:” ,n)
+EITHER print(“N is an even number”)
+EITHER print(“N is an odd number”)
+
++ Task 03 : Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+
+- Solution :
+
+
+
+
+1. Ask the user for the first variable (num1)
+
+2. Ask the user for the second variable (num2)
+
+3. Ask the user for the operator to be used (operator)
+
+4. // Process
+      
+     Result = (num1) (operator) (num2)
+
+5. Display the result to the user.
+
+
+
+
+
+
+
+
+
