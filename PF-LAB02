@@ -1,5 +1,5 @@
 # Home Task
-## Objective 1
+## ---------> Objective 1
 
 - Task 02 : Take three variables as input and add them without using the + operator (Use your head for this).
 
@@ -31,7 +31,7 @@ Print “The addition of the given 3 numbers is as follows :” sum;
 
     END
 
-## Objective 2
+## ---------> Objective 2
 
 • Task 03 : Create a small calculator which only does ‘+’ or ‘-‘ Operations. (Hint: Take three variable inputs with one being used for the operator)
 
@@ -77,10 +77,10 @@ Print “The deduction of the given 2 numbers is as follows :” deduction;
 
     END
 
-## OBJECTIVE 3
+## ---------> OBJECTIVE 3
 
-+ Task 01 : Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
-- Solution: 
+•  Task 01 : Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
+•  Solution: 
 1.	In order to check if n can be divided by N and give zero remainder,we will proceed with an IF statement as following:
 
 IF n % N == 0:
@@ -103,10 +103,10 @@ EITHER print(“N is a divisor of:” ,n)
 EITHER print(“N is an even number”)
 EITHER print(“N is an odd number”)
 
-+ Task 03 : Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+•  Task 03 : Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
 
 
-- Solution :
+•  Solution :
 
 
 
