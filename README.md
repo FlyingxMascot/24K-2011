@@ -13,4 +13,4 @@ My Contact Info is as follows:
 Mail : k242011@nu.edu.pk
 ```
 
-![CyberSecurity}(https://github.com/FlyingxMascot/24K-2011/blob/main/README.md)
+![CyberSecurity](https://github.com/FlyingxMascot/24K-2011/blob/main/README.md)
