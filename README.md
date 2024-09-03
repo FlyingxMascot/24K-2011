@@ -34,3 +34,5 @@ EITHER print(“N is an odd number”)
 ```
 
 ![CyberSecurity](https://www.shutterstock.com/image-vector/abstract-banner-cyber-security-3d-600nw-2132246277.jpg)
+
+![Cybersecurity](https://imageio.forbes.com/specials-images/imageserve/625439e4212c68221e5ca2c5/Digital-padlock-icon--cyber-security-network-and-data-protection-technology-on/960x0.jpg?height=373&width=711&fit=bounds)
